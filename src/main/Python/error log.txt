@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:/JDBCdemo/src/main/Python/TraceFile.py", line 3, in <module>
+    raise Exception('This is the error message.')
+Exception: This is the error message.
+Traceback (most recent call last):
+  File "C:/JDBCdemo/src/main/Python/TraceFile.py", line 3, in <module>
+    raise Exception('This is the error message.')
+Exception: This is the error message.
